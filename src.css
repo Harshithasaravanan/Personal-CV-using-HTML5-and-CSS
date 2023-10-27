@@ -1,0 +1,15 @@
+body { 
+background-color:darkblue; } 
+h1 { 
+} img { 
+} h2,h3,h4 { 
+color:white; font:"arial"; font-weight: bold; font-style: underline; 
+} p { 
+font:"arial"; } 
+SCREENSHOT: 
+color:"white";
+font:"Times New Roman"; background-color:darkgreen; font-weight:bold; text-align:center; 
+width:30%; height:30%;
+float: right;
+width: 400px; height: 400px; border-radius:50%; 
+color:white; 
